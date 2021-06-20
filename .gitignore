@@ -1,0 +1,7 @@
+*env*
+*.sqlite3
+*.log
+*.ipynb
+.vscode
+*__pycache__*
+migrations
